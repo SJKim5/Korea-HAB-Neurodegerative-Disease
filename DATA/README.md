@@ -1,5 +1,6 @@
 Following data is a cross-sectional panel data from South Korea.   
 - File type: txt
+- sep: |
 - Number of variables: 16
 - Variables Explanation:  
   1. **index**: the place where the measurement of chloropyll was collected
